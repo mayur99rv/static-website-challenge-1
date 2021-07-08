@@ -1,4 +1,4 @@
-started : 8 July 2020 at 3:30 pm.
+started : 8 July 2021 at 3:30 pm.
 
 # Frontend Mentor - Blogr landing page
 
