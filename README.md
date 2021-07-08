@@ -1,4 +1,5 @@
 started : 8 July 2021 at 3:30 pm.
+desktop design completed: 8 July 2021 at 8:40 pm.
 
 # Frontend Mentor - Blogr landing page
 
